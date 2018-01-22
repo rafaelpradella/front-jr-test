@@ -1,7 +1,6 @@
 # Teste para Dev Front-End Junior - Landing Page
 ## Tarefas do Teste
-Esse teste tem como objetivo testar as habilidades do candidato para lidar com projetos. 
-Seu objeto é fazer uma landing page para o Cuponomia contendo:
+Esse teste tem como objetivo fazer uma landing page para o Cuponomia contendo:
 
 * Um header para explicar melhor para o usuário o conteúdo e o propósito da landing;
 * Uma lista de cupons de descontos alimentada pelas informações do arquivo `src/data/cupom.js` (ver mais da estrutura básica do cupom [na sessão abaixo](#estrutura-básica-da-página));
