@@ -3,7 +3,7 @@
 Esse teste tem como objetivo fazer uma landing page para o Cuponomia contendo:
 
 * Um header para explicar melhor para o usuário o conteúdo e o propósito da landing;
-* Uma lista de cupons de descontos alimentada pelas informações do arquivo `src/data/cupom.js` (ver mais da estrutura básica do cupom [na sessão abaixo](#estrutura-básica-da-página));
+* Uma lista de cupons de descontos alimentada pelas informações do arquivo `src/data/cupom.js` (ver mais da estrutura básica do cupom [na seção abaixo](#estrutura-básica-da-página));
 * Um aviso na página para o usuário de que ele será redirecionado para o site do Cuponomia após o usuário clicar no link do cupom e antes de ele ser redirecionado para a URL do link;
 * A página tem que ser com layout responsivo e/ou fluido para ser bem visualizada tanto em mobile quanto em desktop.
 
