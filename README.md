@@ -20,7 +20,7 @@ Esse teste tem como objetivo fazer uma landing page para o Cuponomia contendo:
 
 ##  Instalação
 * Instale o [Node.JS](https://nodejs.org/en/);
-* Clone o repositório `https://github.com/rafaelpradella/front-jr-test.git` ou `git@github.com:rafaelpradella/front-jr-test.git`;
+* Clone o repositório com `git clone https://github.com/rafaelpradella/front-jr-test.git` ou `git clone git@github.com:rafaelpradella/front-jr-test.git`;
 * Vá até a pasta do projeto com `cd front-jr-test`;
 * Instale as dependências do projeto com `npm install`. Se você utilizar macOS ou Linux, talvez precise colocar `sudo` na frente do comando.
 
@@ -28,7 +28,8 @@ Esse teste tem como objetivo fazer uma landing page para o Cuponomia contendo:
 * Acesse a pasta **front-jr-test** e rode o comando `npm run local` para gerar os arquivos;
 * No browser, acesse o endereço `http://localhost:3000`;
 
-**(Se algum outro passo for necessário para rodar a sua aplicação, insira aqui)**
+**(Se algum outro passo for necessário para rodar a sua aplicação localmente, edite essa seção do documento)**
+
 
 ## Prazo do Teste
 No máximo 7 dias, contando a partir da hora em que o link e acesso ao repositório foi compartilhado para você;
