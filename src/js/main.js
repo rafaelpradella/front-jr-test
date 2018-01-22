@@ -1,0 +1,1 @@
+import cupom from '../data/cupom.js';
